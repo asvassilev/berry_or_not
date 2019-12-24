@@ -1,0 +1,530 @@
+Epoch 1/40
+704/704 [==============================] - 570s 810ms/step - loss: 31.9277 - yolo_layer_1_loss: 4.6940 - yolo_layer_2_loss: 7.5698 - yolo_layer_3_loss: 19.6639 - val_loss: 15.0573 - val_yolo_layer_1_loss: 1.7256 - val_yolo_layer_2_loss: 5.4074 - val_yolo_layer_3_loss: 7.9243
+Epoch 2/40
+704/704 [==============================] - 544s 773ms/step - loss: 13.7274 - yolo_layer_1_loss: 1.9028 - yolo_layer_2_loss: 4.4549 - yolo_layer_3_loss: 7.3698 - val_loss: 13.0732 - val_yolo_layer_1_loss: 1.6678 - val_yolo_layer_2_loss: 4.9523 - val_yolo_layer_3_loss: 6.4532
+Epoch 3/40
+704/704 [==============================] - 540s 767ms/step - loss: 11.8936 - yolo_layer_1_loss: 1.6687 - yolo_layer_2_loss: 3.9986 - yolo_layer_3_loss: 6.2263 - val_loss: 12.9063 - val_yolo_layer_1_loss: 1.3995 - val_yolo_layer_2_loss: 5.0327 - val_yolo_layer_3_loss: 6.4741
+Epoch 4/40
+704/704 [==============================] - 548s 779ms/step - loss: 10.9273 - yolo_layer_1_loss: 1.4437 - yolo_layer_2_loss: 3.7727 - yolo_layer_3_loss: 5.7109 - val_loss: 11.9829 - val_yolo_layer_1_loss: 1.3323 - val_yolo_layer_2_loss: 4.4549 - val_yolo_layer_3_loss: 6.1956
+Epoch 5/40
+704/704 [==============================] - 555s 788ms/step - loss: 10.5180 - yolo_layer_1_loss: 1.5990 - yolo_layer_2_loss: 3.7421 - yolo_layer_3_loss: 5.1769 - val_loss: 11.8178 - val_yolo_layer_1_loss: 1.2976 - val_yolo_layer_2_loss: 4.6551 - val_yolo_layer_3_loss: 5.8652
+Epoch 6/40
+704/704 [==============================] - 552s 784ms/step - loss: 9.6003 - yolo_layer_1_loss: 1.3447 - yolo_layer_2_loss: 3.2488 - yolo_layer_3_loss: 5.0067 - val_loss: 11.7179 - val_yolo_layer_1_loss: 1.1606 - val_yolo_layer_2_loss: 4.3117 - val_yolo_layer_3_loss: 6.2455
+Epoch 7/40
+704/704 [==============================] - 547s 777ms/step - loss: 9.2747 - yolo_layer_1_loss: 1.3154 - yolo_layer_2_loss: 3.2222 - yolo_layer_3_loss: 4.7371 - val_loss: 12.7954 - val_yolo_layer_1_loss: 1.5698 - val_yolo_layer_2_loss: 5.3580 - val_yolo_layer_3_loss: 5.8676
+Epoch 8/40
+704/704 [==============================] - 543s 771ms/step - loss: 8.8615 - yolo_layer_1_loss: 1.3474 - yolo_layer_2_loss: 3.0653 - yolo_layer_3_loss: 4.4488 - val_loss: 12.0902 - val_yolo_layer_1_loss: 1.3103 - val_yolo_layer_2_loss: 4.5436 - val_yolo_layer_3_loss: 6.2363
+Epoch 9/40
+704/704 [==============================] - 545s 774ms/step - loss: 8.5808 - yolo_layer_1_loss: 1.1376 - yolo_layer_2_loss: 3.0049 - yolo_layer_3_loss: 4.4384 - val_loss: 11.8403 - val_yolo_layer_1_loss: 1.2062 - val_yolo_layer_2_loss: 4.5296 - val_yolo_layer_3_loss: 6.1045
+Epoch 10/40
+704/704 [==============================] - 538s 765ms/step - loss: 8.1060 - yolo_layer_1_loss: 1.0594 - yolo_layer_2_loss: 2.7241 - yolo_layer_3_loss: 4.3225 - val_loss: 12.0657 - val_yolo_layer_1_loss: 1.2034 - val_yolo_layer_2_loss: 5.0120 - val_yolo_layer_3_loss: 5.8503
+Epoch 11/40
+704/704 [==============================] - 541s 769ms/step - loss: 7.9748 - yolo_layer_1_loss: 1.1587 - yolo_layer_2_loss: 2.7921 - yolo_layer_3_loss: 4.0240 - val_loss: 11.6816 - val_yolo_layer_1_loss: 0.9141 - val_yolo_layer_2_loss: 4.3910 - val_yolo_layer_3_loss: 6.3764
+Epoch 12/40
+704/704 [==============================] - 543s 771ms/step - loss: 7.7558 - yolo_layer_1_loss: 1.1444 - yolo_layer_2_loss: 2.6908 - yolo_layer_3_loss: 3.9206 - val_loss: 11.5886 - val_yolo_layer_1_loss: 0.9698 - val_yolo_layer_2_loss: 4.4270 - val_yolo_layer_3_loss: 6.1918
+Epoch 13/40
+704/704 [==============================] - 550s 781ms/step - loss: 7.6729 - yolo_layer_1_loss: 1.0221 - yolo_layer_2_loss: 2.6406 - yolo_layer_3_loss: 4.0102 - val_loss: 11.3928 - val_yolo_layer_1_loss: 0.9367 - val_yolo_layer_2_loss: 4.0097 - val_yolo_layer_3_loss: 6.4465
+Epoch 14/40
+704/704 [==============================] - 553s 785ms/step - loss: 7.4594 - yolo_layer_1_loss: 0.9710 - yolo_layer_2_loss: 2.6085 - yolo_layer_3_loss: 3.8799 - val_loss: 11.4996 - val_yolo_layer_1_loss: 1.0401 - val_yolo_layer_2_loss: 4.5728 - val_yolo_layer_3_loss: 5.8867
+Epoch 15/40
+704/704 [==============================] - 545s 775ms/step - loss: 7.2519 - yolo_layer_1_loss: 0.9021 - yolo_layer_2_loss: 2.4929 - yolo_layer_3_loss: 3.8569 - val_loss: 12.1062 - val_yolo_layer_1_loss: 1.2029 - val_yolo_layer_2_loss: 4.8420 - val_yolo_layer_3_loss: 6.0614
+Epoch 16/40
+704/704 [==============================] - 532s 755ms/step - loss: 7.0480 - yolo_layer_1_loss: 0.8757 - yolo_layer_2_loss: 2.3867 - yolo_layer_3_loss: 3.7857 - val_loss: 11.8673 - val_yolo_layer_1_loss: 1.3767 - val_yolo_layer_2_loss: 4.5162 - val_yolo_layer_3_loss: 5.9744
+Epoch 17/40
+704/704 [==============================] - 532s 755ms/step - loss: 6.9279 - yolo_layer_1_loss: 0.8495 - yolo_layer_2_loss: 2.3964 - yolo_layer_3_loss: 3.6820 - val_loss: 12.4619 - val_yolo_layer_1_loss: 1.5178 - val_yolo_layer_2_loss: 4.9923 - val_yolo_layer_3_loss: 5.9518
+Epoch 18/40
+704/704 [==============================] - 540s 768ms/step - loss: 7.0144 - yolo_layer_1_loss: 0.9323 - yolo_layer_2_loss: 2.5573 - yolo_layer_3_loss: 3.5248 - val_loss: 11.9679 - val_yolo_layer_1_loss: 1.0479 - val_yolo_layer_2_loss: 4.3625 - val_yolo_layer_3_loss: 6.5574
+Epoch 19/40
+704/704 [==============================] - 535s 760ms/step - loss: 6.6245 - yolo_layer_1_loss: 0.8825 - yolo_layer_2_loss: 2.2489 - yolo_layer_3_loss: 3.4931 - val_loss: 12.6669 - val_yolo_layer_1_loss: 1.1618 - val_yolo_layer_2_loss: 5.0939 - val_yolo_layer_3_loss: 6.4112
+Epoch 20/40
+704/704 [==============================] - 540s 768ms/step - loss: 6.6502 - yolo_layer_1_loss: 0.8621 - yolo_layer_2_loss: 2.2979 - yolo_layer_3_loss: 3.4903 - val_loss: 11.7297 - val_yolo_layer_1_loss: 0.9059 - val_yolo_layer_2_loss: 4.3700 - val_yolo_layer_3_loss: 6.4538
+Epoch 21/40
+704/704 [==============================] - 543s 771ms/step - loss: 6.5043 - yolo_layer_1_loss: 0.7538 - yolo_layer_2_loss: 2.2084 - yolo_layer_3_loss: 3.5421 - val_loss: 12.0528 - val_yolo_layer_1_loss: 1.2192 - val_yolo_layer_2_loss: 4.7090 - val_yolo_layer_3_loss: 6.1246
+Epoch 22/40
+704/704 [==============================] - 546s 776ms/step - loss: 6.4949 - yolo_layer_1_loss: 0.8499 - yolo_layer_2_loss: 2.2400 - yolo_layer_3_loss: 3.4050 - val_loss: 12.0009 - val_yolo_layer_1_loss: 0.7742 - val_yolo_layer_2_loss: 4.4026 - val_yolo_layer_3_loss: 6.8241
+Epoch 23/40
+704/704 [==============================] - 536s 761ms/step - loss: 6.5445 - yolo_layer_1_loss: 0.8940 - yolo_layer_2_loss: 2.2145 - yolo_layer_3_loss: 3.4359 - val_loss: 11.9993 - val_yolo_layer_1_loss: 0.9628 - val_yolo_layer_2_loss: 4.5743 - val_yolo_layer_3_loss: 6.4623
+Epoch 24/40
+704/704 [==============================] - 539s 765ms/step - loss: 5.6811 - yolo_layer_1_loss: 0.7939 - yolo_layer_2_loss: 1.9666 - yolo_layer_3_loss: 2.9206 - val_loss: 11.6676 - val_yolo_layer_1_loss: 0.9462 - val_yolo_layer_2_loss: 4.4926 - val_yolo_layer_3_loss: 6.2288
+Epoch 25/40
+704/704 [==============================] - 536s 762ms/step - loss: 5.2791 - yolo_layer_1_loss: 0.6309 - yolo_layer_2_loss: 1.7524 - yolo_layer_3_loss: 2.8958 - val_loss: 11.6967 - val_yolo_layer_1_loss: 0.8661 - val_yolo_layer_2_loss: 4.6081 - val_yolo_layer_3_loss: 6.2224
+Epoch 26/40
+704/704 [==============================] - 547s 777ms/step - loss: 5.1964 - yolo_layer_1_loss: 0.6483 - yolo_layer_2_loss: 1.7857 - yolo_layer_3_loss: 2.7624 - val_loss: 11.7584 - val_yolo_layer_1_loss: 0.8524 - val_yolo_layer_2_loss: 4.7221 - val_yolo_layer_3_loss: 6.1840
+Epoch 27/40
+704/704 [==============================] - 549s 780ms/step - loss: 5.0871 - yolo_layer_1_loss: 0.5676 - yolo_layer_2_loss: 1.7305 - yolo_layer_3_loss: 2.7891 - val_loss: 11.7902 - val_yolo_layer_1_loss: 0.9688 - val_yolo_layer_2_loss: 4.7151 - val_yolo_layer_3_loss: 6.1063
+Epoch 28/40
+704/704 [==============================] - 558s 792ms/step - loss: 5.0438 - yolo_layer_1_loss: 0.6415 - yolo_layer_2_loss: 1.7608 - yolo_layer_3_loss: 2.6415 - val_loss: 11.4956 - val_yolo_layer_1_loss: 0.9346 - val_yolo_layer_2_loss: 4.4678 - val_yolo_layer_3_loss: 6.0932
+Epoch 29/40
+704/704 [==============================] - 547s 776ms/step - loss: 4.8974 - yolo_layer_1_loss: 0.6208 - yolo_layer_2_loss: 1.6566 - yolo_layer_3_loss: 2.6200 - val_loss: 12.0410 - val_yolo_layer_1_loss: 1.0067 - val_yolo_layer_2_loss: 4.8998 - val_yolo_layer_3_loss: 6.1345
+Epoch 30/40
+704/704 [==============================] - 545s 774ms/step - loss: 4.8516 - yolo_layer_1_loss: 0.5449 - yolo_layer_2_loss: 1.6237 - yolo_layer_3_loss: 2.6830 - val_loss: 11.8532 - val_yolo_layer_1_loss: 1.1779 - val_yolo_layer_2_loss: 4.7260 - val_yolo_layer_3_loss: 5.9493
+Epoch 31/40
+704/704 [==============================] - 543s 771ms/step - loss: 4.7312 - yolo_layer_1_loss: 0.5385 - yolo_layer_2_loss: 1.6028 - yolo_layer_3_loss: 2.5900 - val_loss: 11.4015 - val_yolo_layer_1_loss: 0.7234 - val_yolo_layer_2_loss: 4.2577 - val_yolo_layer_3_loss: 6.4203
+Epoch 32/40
+704/704 [==============================] - 540s 767ms/step - loss: 4.7579 - yolo_layer_1_loss: 0.5260 - yolo_layer_2_loss: 1.5746 - yolo_layer_3_loss: 2.6573 - val_loss: 11.6172 - val_yolo_layer_1_loss: 0.9376 - val_yolo_layer_2_loss: 4.6035 - val_yolo_layer_3_loss: 6.0761
+Epoch 33/40
+704/704 [==============================] - 539s 766ms/step - loss: 4.7238 - yolo_layer_1_loss: 0.5154 - yolo_layer_2_loss: 1.6250 - yolo_layer_3_loss: 2.5834 - val_loss: 11.7661 - val_yolo_layer_1_loss: 1.1852 - val_yolo_layer_2_loss: 4.7090 - val_yolo_layer_3_loss: 5.8720
+Epoch 34/40
+704/704 [==============================] - 541s 768ms/step - loss: 4.6384 - yolo_layer_1_loss: 0.5686 - yolo_layer_2_loss: 1.5793 - yolo_layer_3_loss: 2.4905 - val_loss: 12.0367 - val_yolo_layer_1_loss: 1.2647 - val_yolo_layer_2_loss: 5.1312 - val_yolo_layer_3_loss: 5.6407
+Epoch 35/40
+704/704 [==============================] - 544s 773ms/step - loss: 4.7107 - yolo_layer_1_loss: 0.5160 - yolo_layer_2_loss: 1.5771 - yolo_layer_3_loss: 2.6177 - val_loss: 11.5784 - val_yolo_layer_1_loss: 0.9430 - val_yolo_layer_2_loss: 4.5807 - val_yolo_layer_3_loss: 6.0547
+Epoch 36/40
+704/704 [==============================] - 550s 782ms/step - loss: 4.6340 - yolo_layer_1_loss: 0.5673 - yolo_layer_2_loss: 1.4864 - yolo_layer_3_loss: 2.5803 - val_loss: 11.7386 - val_yolo_layer_1_loss: 1.0032 - val_yolo_layer_2_loss: 4.4844 - val_yolo_layer_3_loss: 6.2510
+Epoch 37/40
+704/704 [==============================] - 554s 786ms/step - loss: 4.4946 - yolo_layer_1_loss: 0.4994 - yolo_layer_2_loss: 1.4957 - yolo_layer_3_loss: 2.4994 - val_loss: 11.8366 - val_yolo_layer_1_loss: 0.9665 - val_yolo_layer_2_loss: 4.6381 - val_yolo_layer_3_loss: 6.2320
+Epoch 38/40
+704/704 [==============================] - 557s 792ms/step - loss: 4.6951 - yolo_layer_1_loss: 0.6177 - yolo_layer_2_loss: 1.5724 - yolo_layer_3_loss: 2.5050 - val_loss: 11.6155 - val_yolo_layer_1_loss: 0.7969 - val_yolo_layer_2_loss: 4.4931 - val_yolo_layer_3_loss: 6.3255
+Epoch 39/40
+704/704 [==============================] - 555s 788ms/step - loss: 4.5401 - yolo_layer_1_loss: 0.5810 - yolo_layer_2_loss: 1.4614 - yolo_layer_3_loss: 2.4976 - val_loss: 11.9401 - val_yolo_layer_1_loss: 1.1385 - val_yolo_layer_2_loss: 4.9028 - val_yolo_layer_3_loss: 5.8988
+Epoch 40/40
+704/704 [==============================] - 544s 773ms/step - loss: 4.5442 - yolo_layer_1_loss: 0.5116 - yolo_layer_2_loss: 1.5146 - yolo_layer_3_loss: 2.5181 - val_loss: 11.5981 - val_yolo_layer_1_loss: 0.8634 - val_yolo_layer_2_loss: 4.3898 - val_yolo_layer_3_loss: 6.3449
+
+
+Loss     val_loss
+31.9277  15.054
+13.7274  13.073
+11.8936  12.906
+10.9273  11.982
+10.5180  11.817
+9.6003   11.7179
+9.2747   12.7954
+8.8615   12.0902
+8.5808   11.8403
+8.1060   12.0657
+7.9748   11.6816
+7.7558   11.5886
+7.6729   11.3928
+7.4594   11.4996
+7.2519   12.1062
+7.0480   11.8673
+6.9279   12.4619
+7.0144   11.9679
+6.6245   12.6669
+6.6502   11.7297
+6.5043   12.0528
+6.4949   12.0009
+6.5445   11.9993
+5.6811   11.6676
+5.2791   11.6967
+5.1964   11.7584
+5.0871   11.7902
+5.0438   11.4956
+4.8974   12.0410
+4.8516   11.8532
+4.7312   11.4015
+4.7579   11.6172
+4.7238   11.7661
+4.6384   12.0367
+4.7107   11.5784
+4.6340   11.7386
+4.4946   11.8366
+4.6951   11.6155
+4.5401   11.9401
+4.5442   11.5981
+
+
+
+
+
+Using IoU :  0.5
+Using Object Threshold :  0.3
+Using Non-Maximum Suppression :  0.5
+Bad Strawberry: 0.5059
+Green Strawberry: 0.0525
+Ripe Strawberry: 0.2452
+mAP: 0.2678
+===============================
+Model File:  /content/Dataset/models/detection_model-ex-002--loss-0013.727.h5 
+
+Using IoU :  0.5
+Using Object Threshold :  0.3
+Using Non-Maximum Suppression :  0.5
+Bad Strawberry: 0.5950
+Green Strawberry: 0.0344
+Ripe Strawberry: 0.4227
+mAP: 0.3507
+===============================
+Model File:  /content/Dataset/models/detection_model-ex-003--loss-0011.894.h5 
+
+Using IoU :  0.5
+Using Object Threshold :  0.3
+Using Non-Maximum Suppression :  0.5
+Bad Strawberry: 0.7320
+Green Strawberry: 0.2297
+Ripe Strawberry: 0.5896
+mAP: 0.5171
+===============================
+Model File:  /content/Dataset/models/detection_model-ex-004--loss-0010.927.h5 
+
+Using IoU :  0.5
+Using Object Threshold :  0.3
+Using Non-Maximum Suppression :  0.5
+Bad Strawberry: 0.7654
+Green Strawberry: 0.4876
+Ripe Strawberry: 0.6322
+mAP: 0.6284
+===============================
+Model File:  /content/Dataset/models/detection_model-ex-005--loss-0010.518.h5 
+
+Using IoU :  0.5
+Using Object Threshold :  0.3
+Using Non-Maximum Suppression :  0.5
+Bad Strawberry: 0.8562
+Green Strawberry: 0.6215
+Ripe Strawberry: 0.6947
+mAP: 0.7241
+===============================
+Model File:  /content/Dataset/models/detection_model-ex-006--loss-0009.600.h5 
+
+Using IoU :  0.5
+Using Object Threshold :  0.3
+Using Non-Maximum Suppression :  0.5
+Bad Strawberry: 0.8471
+Green Strawberry: 0.6743
+Ripe Strawberry: 0.7803
+mAP: 0.7672
+===============================
+Model File:  /content/Dataset/models/detection_model-ex-007--loss-0009.275.h5 
+
+Using IoU :  0.5
+Using Object Threshold :  0.3
+Using Non-Maximum Suppression :  0.5
+Bad Strawberry: 0.8834
+Green Strawberry: 0.7023
+Ripe Strawberry: 0.6712
+mAP: 0.7523
+===============================
+Model File:  /content/Dataset/models/detection_model-ex-008--loss-0008.861.h5 
+
+Using IoU :  0.5
+Using Object Threshold :  0.3
+Using Non-Maximum Suppression :  0.5
+Bad Strawberry: 0.8434
+Green Strawberry: 0.6965
+Ripe Strawberry: 0.8504
+mAP: 0.7968
+===============================
+Model File:  /content/Dataset/models/detection_model-ex-009--loss-0008.581.h5 
+
+Using IoU :  0.5
+Using Object Threshold :  0.3
+Using Non-Maximum Suppression :  0.5
+Bad Strawberry: 0.8449
+Green Strawberry: 0.6745
+Ripe Strawberry: 0.7980
+mAP: 0.7725
+===============================
+Model File:  /content/Dataset/models/detection_model-ex-010--loss-0008.106.h5 
+
+Using IoU :  0.5
+Using Object Threshold :  0.3
+Using Non-Maximum Suppression :  0.5
+Bad Strawberry: 0.8007
+Green Strawberry: 0.7343
+Ripe Strawberry: 0.8153
+mAP: 0.7835
+===============================
+Model File:  /content/Dataset/models/detection_model-ex-011--loss-0007.975.h5 
+
+Using IoU :  0.5
+Using Object Threshold :  0.3
+Using Non-Maximum Suppression :  0.5
+Bad Strawberry: 0.8586
+Green Strawberry: 0.6435
+Ripe Strawberry: 0.7974
+mAP: 0.7665
+===============================
+Model File:  /content/Dataset/models/detection_model-ex-012--loss-0007.756.h5 
+
+Using IoU :  0.5
+Using Object Threshold :  0.3
+Using Non-Maximum Suppression :  0.5
+Bad Strawberry: 0.8613
+Green Strawberry: 0.7550
+Ripe Strawberry: 0.8175
+mAP: 0.8112
+===============================
+Model File:  /content/Dataset/models/detection_model-ex-013--loss-0007.673.h5 
+
+Using IoU :  0.5
+Using Object Threshold :  0.3
+Using Non-Maximum Suppression :  0.5
+Bad Strawberry: 0.8881
+Green Strawberry: 0.7582
+Ripe Strawberry: 0.7838
+mAP: 0.8101
+===============================
+Model File:  /content/Dataset/models/detection_model-ex-014--loss-0007.459.h5 
+
+Using IoU :  0.5
+Using Object Threshold :  0.3
+Using Non-Maximum Suppression :  0.5
+Bad Strawberry: 0.8423
+Green Strawberry: 0.7044
+Ripe Strawberry: 0.8328
+mAP: 0.7932
+===============================
+Model File:  /content/Dataset/models/detection_model-ex-015--loss-0007.252.h5 
+
+Using IoU :  0.5
+Using Object Threshold :  0.3
+Using Non-Maximum Suppression :  0.5
+Bad Strawberry: 0.8505
+Green Strawberry: 0.7525
+Ripe Strawberry: 0.7931
+mAP: 0.7987
+===============================
+Model File:  /content/Dataset/models/detection_model-ex-016--loss-0007.048.h5 
+
+Using IoU :  0.5
+Using Object Threshold :  0.3
+Using Non-Maximum Suppression :  0.5
+Bad Strawberry: 0.8720
+Green Strawberry: 0.7433
+Ripe Strawberry: 0.8505
+mAP: 0.8219
+===============================
+Model File:  /content/Dataset/models/detection_model-ex-017--loss-0006.928.h5 
+
+Using IoU :  0.5
+Using Object Threshold :  0.3
+Using Non-Maximum Suppression :  0.5
+Bad Strawberry: 0.8067
+Green Strawberry: 0.7515
+Ripe Strawberry: 0.8331
+mAP: 0.7971
+===============================
+Model File:  /content/Dataset/models/detection_model-ex-019--loss-0006.624.h5 
+
+Using IoU :  0.5
+Using Object Threshold :  0.3
+Using Non-Maximum Suppression :  0.5
+Bad Strawberry: 0.8331
+Green Strawberry: 0.6601
+Ripe Strawberry: 0.8332
+mAP: 0.7755
+===============================
+
+Model File:  /content/Dataset/models/detection_model-ex-021--loss-0006.504.h5 
+
+Using IoU :  0.5
+Using Object Threshold :  0.3
+Using Non-Maximum Suppression :  0.5
+Bad Strawberry: 0.8084
+Green Strawberry: 0.7161
+Ripe Strawberry: 0.7751
+mAP: 0.7666
+===============================
+Model File:  /content/Dataset/models/detection_model-ex-022--loss-0006.495.h5 
+
+Using IoU :  0.5
+Using Object Threshold :  0.3
+Using Non-Maximum Suppression :  0.5
+Bad Strawberry: 0.7864
+Green Strawberry: 0.6400
+Ripe Strawberry: 0.7953
+mAP: 0.7406
+===============================
+Model File:  /content/Dataset/models/detection_model-ex-024--loss-0005.681.h5 
+
+Using IoU :  0.5
+Using Object Threshold :  0.3
+Using Non-Maximum Suppression :  0.5
+Bad Strawberry: 0.8532
+Green Strawberry: 0.7242
+Ripe Strawberry: 0.7996
+mAP: 0.7923
+===============================
+Model File:  /content/Dataset/models/detection_model-ex-025--loss-0005.279.h5 
+
+Using IoU :  0.5
+Using Object Threshold :  0.3
+Using Non-Maximum Suppression :  0.5
+Bad Strawberry: 0.8348
+Green Strawberry: 0.7200
+Ripe Strawberry: 0.7891
+mAP: 0.7813
+===============================
+Model File:  /content/Dataset/models/detection_model-ex-026--loss-0005.196.h5 
+
+Using IoU :  0.5
+Using Object Threshold :  0.3
+Using Non-Maximum Suppression :  0.5
+Bad Strawberry: 0.8413
+Green Strawberry: 0.6912
+Ripe Strawberry: 0.7977
+mAP: 0.7767
+===============================
+Model File:  /content/Dataset/models/detection_model-ex-027--loss-0005.087.h5 
+
+Using IoU :  0.5
+Using Object Threshold :  0.3
+Using Non-Maximum Suppression :  0.5
+Bad Strawberry: 0.8268
+Green Strawberry: 0.7364
+Ripe Strawberry: 0.7919
+mAP: 0.7850
+===============================
+Model File:  /content/Dataset/models/detection_model-ex-028--loss-0005.044.h5 
+
+Using IoU :  0.5
+Using Object Threshold :  0.3
+Using Non-Maximum Suppression :  0.5
+Bad Strawberry: 0.8388
+Green Strawberry: 0.7026
+Ripe Strawberry: 0.7778
+mAP: 0.7731
+===============================
+Model File:  /content/Dataset/models/detection_model-ex-029--loss-0004.897.h5 
+
+Using IoU :  0.5
+Using Object Threshold :  0.3
+Using Non-Maximum Suppression :  0.5
+Bad Strawberry: 0.8313
+Green Strawberry: 0.7122
+Ripe Strawberry: 0.7811
+mAP: 0.7749
+===============================
+
+Using IoU :  0.5
+Using Object Threshold :  0.3
+Using Non-Maximum Suppression :  0.5
+Bad Strawberry: 0.8241
+Green Strawberry: 0.6605
+Ripe Strawberry: 0.7780
+mAP: 0.7542
+===============================
+Model File:  /content/Dataset/models/detection_model-ex-031--loss-0004.731.h5 
+
+Using IoU :  0.5
+Using Object Threshold :  0.3
+Using Non-Maximum Suppression :  0.5
+Bad Strawberry: 0.8229
+Green Strawberry: 0.7109
+Ripe Strawberry: 0.7783
+mAP: 0.7707
+===============================
+Model File:  /content/Dataset/models/detection_model-ex-033--loss-0004.724.h5 
+
+Using IoU :  0.5
+Using Object Threshold :  0.3
+Using Non-Maximum Suppression :  0.5
+Bad Strawberry: 0.8199
+Green Strawberry: 0.7081
+Ripe Strawberry: 0.7801
+mAP: 0.7694
+===============================
+Model File:  /content/Dataset/models/detection_model-ex-034--loss-0004.638.h5 
+
+Using IoU :  0.5
+Using Object Threshold :  0.3
+Using Non-Maximum Suppression :  0.5
+Bad Strawberry: 0.8194
+Green Strawberry: 0.7264
+Ripe Strawberry: 0.7930
+mAP: 0.7796
+===============================
+Model File:  /content/Dataset/models/detection_model-ex-036--loss-0004.634.h5 
+
+Using IoU :  0.5
+Using Object Threshold :  0.3
+Using Non-Maximum Suppression :  0.5
+Bad Strawberry: 0.8182
+Green Strawberry: 0.7237
+Ripe Strawberry: 0.7854
+mAP: 0.7758
+===============================
+Model File:  /content/Dataset/models/detection_model-ex-037--loss-0004.495.h5 
+
+Using IoU :  0.5
+Using Object Threshold :  0.3
+Using Non-Maximum Suppression :  0.5
+Bad Strawberry: 0.8193
+Green Strawberry: 0.7257
+Ripe Strawberry: 0.7933
+mAP: 0.7794
+===============================
+[{'average_precision': {'Bad Strawberry': 0.8240676148472206,
+   'Green Strawberry': 0.6604709640516779,
+   'Ripe Strawberry': 0.7779874238649993},
+  'map': 0.7541753342546326,
+  'model_file': '/content/Dataset/models/detection_model-ex-030--loss-0004.852.h5',
+  'using_iou': 0.5,
+  'using_non_maximum_suppression': 0.5,
+  'using_object_threshold': 0.3},
+ {'average_precision': {'Bad Strawberry': 0.8228643226718313,
+   'Green Strawberry': 0.7108965901120156,
+   'Ripe Strawberry': 0.7783489577386931},
+  'map': 0.7707032901741799,
+  'model_file': '/content/Dataset/models/detection_model-ex-031--loss-0004.731.h5',
+  'using_iou': 0.5,
+  'using_non_maximum_suppression': 0.5,
+  'using_object_threshold': 0.3},
+ {'average_precision': {'Bad Strawberry': 0.8198792461830863,
+   'Green Strawberry': 0.7080528620085872,
+   'Ripe Strawberry': 0.780123489113772},
+  'map': 0.7693518657684818,
+  'model_file': '/content/Dataset/models/detection_model-ex-033--loss-0004.724.h5',
+  'using_iou': 0.5,
+  'using_non_maximum_suppression': 0.5,
+  'using_object_threshold': 0.3},
+ {'average_precision': {'Bad Strawberry': 0.8194469891472915,
+   'Green Strawberry': 0.7263754947118065,
+   'Ripe Strawberry': 0.7929530023196087},
+  'map': 0.7795918287262356,
+  'model_file': '/content/Dataset/models/detection_model-ex-034--loss-0004.638.h5',
+  'using_iou': 0.5,
+  'using_non_maximum_suppression': 0.5,
+  'using_object_threshold': 0.3},
+ {'average_precision': {'Bad Strawberry': 0.8182100522840603,
+   'Green Strawberry': 0.7236892086283778,
+   'Ripe Strawberry': 0.7854021383864336},
+  'map': 0.7757671330996239,
+  'model_file': '/content/Dataset/models/detection_model-ex-036--loss-0004.634.h5',
+  'using_iou': 0.5,
+  'using_non_maximum_suppression': 0.5,
+  'using_object_threshold': 0.3},
+ {'average_precision': {'Bad Strawberry': 0.8192660056088905,
+   'Green Strawberry': 0.7256639008259664,
+   'Ripe Strawberry': 0.7932887103435191},
+  'map': 0.7794062055927921,
+  'model_file': '/content/Dataset/models/detection_model-ex-037--loss-0004.495.h5',
+  'using_iou': 0.5,
+  'using_non_maximum_suppression': 0.5,
+  'using_object_threshold': 0.3}]
+
+
+   Bad    Green  Red
+0  0      0      0
+1  0.5059 0.0525 0.2452 
+2  0.5950 0.0344 0.4227
+3  0.7320 0.2297 0.5896
+4  0.7654 0.4876 0.6322
+5  0.8562 0.6215 0.6947
+6  0.8471 0.6743 0.7803
+7  0.8834 0.7023 0.6712
+8  0.8434 0.6965 0.8504
+9  0.8449 0.6745 0.7980
+10 0.8007 0.7343 0.8153
+11 0.8586 0.6435 0.7974
+12 0.8613 0.7550 0.8175
+13 0.8881 0.7582 0.7838
+14 0.8423 0.7044 0.8328
+15 0.8505 0.7525 0.7931
+16 0.8720 0.7433 0.8505
+17 0.8067 0.7515 0.8331
+19 0.8331 0.6601 0.8332
+21 0.8084 0.7161 0.7751
+22 0.7864 0.6400 0.7953
+24 0.8532 0.7242 0.7996
+25 0.8348 0.7200 0.7891
+26 0.8413 0.6912 0.7977
+27 0.8268 0.7364 0.7919
+28 0.8388 0.7026 0.7778
+29 0.8313 0.7122 0.7811
+30 0.8241 0.6605 0.7780
+31 0.8229 0.7109 0.7783
+33 0.8199 0.7081 0.7801
+34 0.8194 0.7264 0.7930
+36 0.8182 0.7237 0.7854
+37 0.8193 0.7257 0.7933
